@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ngwuprince
-- 👀 I’m interested in Data Analysis and Bussiness Intelligence Tools, already has some skillset in python analytics tools, powerBI, Tablaeu, SQl, Microsoft Excel
-- 🌱 I’m currently refining my skills in Tablaeu, SQL and Database Management
+- 👀 A Data Analyst and Bussiness Intelligence Analyst, skilled in python analytics tools and libraries, powerBI, SQL, Microsoft Excel, PowerPoint
 - 💞️ I’m looking to collaborate in Bussiness intelligence and Data Analysis Roles
 - 📫 How to reach me ...
 
